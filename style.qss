@@ -1,0 +1,47 @@
+QWidget {
+    background-color: white;
+    color: black;
+    font-size: 14px;
+}
+QPushButton {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+QPushButton:hover {
+    background-color: #e0e0e0;
+}
+QLineEdit, QTextEdit, QComboBox, QDateEdit {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+QLabel {
+    font-weight: bold;
+}
+QSlider::groove:horizontal {
+    background: #ddd;
+    height: 8px;
+}
+QSlider::handle:horizontal {
+    background: #888;
+    width: 16px;
+    margin: -4px 0;
+    border-radius: 8px;
+}
+QTabWidget::pane {
+    border: 1px solid #ccc;
+    background: white;
+}
+QTabBar::tab {
+    background: #e0e0e0;
+    padding: 10px;
+    margin-right: 2px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+QTabBar::tab:selected {
+    background: #a0c4ff;
+    color: black;
+    font-weight: bold;
+}
