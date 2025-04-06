@@ -33,25 +33,34 @@ The application consists of ten tabs, each designed for a specific stage of remo
 Some tabs accept only specific input types. For example, the image fusion tab supports only Landsat imagery with TOA Reflectance level, while the LST tab requires Landsat imagery at the Surface Reflectance level. The remaining tabs accept both Sentinel and Landsat imagery at any processing level. Detail function for each tab:
 
 - Tab #1 - Sentinel 2 Imagery Collection
+<img src="https://github.com/user-attachments/assets/a7c15cc7-02e6-4a96-9249-10277ba545ed" width="600">
 
 - Tab #2 - Landsat Imagery Collection
+<img src="https://github.com/user-attachments/assets/c47ac8bd-cf92-4305-bc39-d70d7f71e257" width="600">
 
 - Tab #3 - False Color Composite Visualization
+<img src="https://github.com/user-attachments/assets/f664edaa-6be3-48b5-80ef-439f3c67b68e" width="600">
 
 - Tab #4 - Spectral Indices Calculation
+<img src="https://github.com/user-attachments/assets/f9c83130-e1f3-4a5d-9ed0-397c2d0161cc" width="600">
 
 - Tab #5 - NDVI Time Series Plot
+<img src="https://github.com/user-attachments/assets/b8fde949-57e0-440c-a28b-8043f9de22ef" width="400">
 
 - Tab #6 - Principal Component Analysis Calculation
+<img src="https://github.com/user-attachments/assets/c943e424-2caa-4e85-ab36-fab8dde354be" width="600">
 
 - Tab #7 - Pansharpening or Image Fusion
+<img src="https://github.com/user-attachments/assets/3e549f31-0444-4575-ae36-5e47982b2bd2" width="600">
 
 - Tab #8 - Unsupervised Classification
+<img src="https://github.com/user-attachments/assets/fbc2600b-6fbf-4525-bd0b-c805fba66ffb" width="600">
 
 - Tab #9 - Supervised Classification
+<img src="https://github.com/user-attachments/assets/6ea203c3-cb4a-4ee6-90a5-25e0f96a7891" width="600">
 
 - Tab #10 - Land Surface Temperature Analysis
-
+<img src="https://github.com/user-attachments/assets/69a7890e-f949-48ad-896d-54274eca0f47" width="600">
 
 ## Data
 Currently, G-in-your-Pocket support seven types of remote sensing imageries, including:
